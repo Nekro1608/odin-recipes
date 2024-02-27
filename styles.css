@@ -1,0 +1,31 @@
+* {
+    font-family: Verdana, "Times New Roman", sans-serif;
+    color: grey;
+    font-size: 30px;
+}
+
+body {
+    background-color: rgb(60, 60, 85);
+}
+
+.red {
+    color: red;
+}
+
+.white {
+    color: white;
+}
+
+.green {
+    color: green;
+}
+
+img {
+    height: auto;
+    width: 400px;
+     
+}
+
+li {
+    color: white;
+}
