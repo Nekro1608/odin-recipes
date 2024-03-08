@@ -5,23 +5,25 @@
     text-align: center;
 }
 
+
 body {
     background-color: rgb(60, 60, 85);
 }
 
-.red {
-    color: red;
+img {
+    height: auto;
+    width: 400px;
 }
 
-.white {
+.list {
+    text-align: center;
+}
+
+.listel {
+    display: inline-block;
+    text-align: left;
+}
+
+li{
     color: white;
-}
-
-.green {
-    color: green;
-}
-
-.home {
-    display: block;
-}
-
+    text-align:left;
